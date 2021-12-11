@@ -1,0 +1,6 @@
+az\edu\ascca\studentservice\resources\StudentResource.class
+az\edu\ascca\studentservice\models\StudentDao.class
+az\edu\ascca\studentservice\resources\JakartaEE9Resource.class
+az\edu\ascca\studentservice\models\DbHandler.class
+az\edu\ascca\studentservice\JakartaRestConfiguration.class
+az\edu\ascca\studentservice\models\Student.class
